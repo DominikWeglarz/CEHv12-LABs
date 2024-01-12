@@ -12,7 +12,7 @@ Selected CEHv12 LABs to be performed during the 5-day training
 * 1.1 Gather Information using Advanced Google Hacking Techniques (page 7-13)
 * 2.1 Find the Company’s Domains and Sub-domains using Netcraft (page 23-26)
 * 4.2 Gather Information About a Target Website using Photon (page 58-63)
-* 6.1 Perform Whois Lookup using DomainTools **(do on your own host, not in the lab environment)** (page 100-103)
+* 6.1 Perform Whois Lookup using DomainTools (page 100-103) **(do on your own host, not in the lab environment)** 
 * 9.1 Footprinting a Target using Recon-ng (page 137-160)
 
 ## Module 03 - Scanning Networks
