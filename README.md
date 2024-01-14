@@ -71,25 +71,25 @@ Selected CEHv12 LABs to be performed during the 5-day training
 * 2.4 Exploit Parameter Tampering and XSS Vulnerabilities in Web Applications (page 1603-1610)
 
 ## Module 15 - SQL Injection
-* 1.2 Perform an SQL Injection Attack Against MSSQL to Extract Databases using sqlmap
-* 2.2 Detect SQL Injection Vulnerabilities using OWASP ZAP
+* 1.2 Perform an SQL Injection Attack Against MSSQL to Extract Databases using sqlmap (page 1720-1733)
+* 2.2 Detect SQL Injection Vulnerabilities using OWASP ZAP (page 1742-1750)
 
 ## Module 16 - Hacking Wireless Networks
 * No labs during classes **(you will see LIVE DEMO done by trainer)**
 * Demo recording available on YouTube - https://www.youtube.com/@Dominik.Weglarz
 
 ## Module 17 - Hacking Mobile Platforms
-* 1.5 Hack an Android Device by Creating APK File using AndroRAT **(if chrome OPEN fails - run Files to open apk on Android)**
+* 1.5 Hack an Android Device by Creating APK File using AndroRAT **(if chrome OPEN fails - run Files to open apk on Android)** (page 1888-1896)
 
 ## Module 18 - IoT and OT Hacking
-* 1.1 Gather Information using Online Footprinting Tools
+* 1.1 Gather Information using Online Footprinting Tools (page 1918-1927)
 
 ## Module 19 - Cloud Computing
-* 1.1 Enumerate S3 Buckets using lazys3
-* 1.2 Enumerate S3 Buckets using S3Scanner  **(without step 8 !!!)**
-* (some other LABs require your own AWS account)
+* 1.1 Enumerate S3 Buckets using lazys3 (page 1959-1961)
+* 1.2 Enumerate S3 Buckets using S3Scanner  **(finish at step 7 - without step 8 !!!)** (page 1962-1963)
+* (some other LABs require your own AWS account !!! - do it on your own)
 
 ## Module 20 - Cryptography
-* 1.1 Calculate One-way Hashes using HashCalc
-* 2.1 Create and Use Self-signed Certificates
-* 4.1 Perform Disk Encryption using VeraCrypt 
+* 1.1 Calculate One-way Hashes using HashCalc (page 1996-2001)
+* 2.1 Create and Use Self-signed Certificates (page 2035-2043)
+* 4.1 Perform Disk Encryption using VeraCrypt (page 2060-2070)
