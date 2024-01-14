@@ -5,7 +5,7 @@ Selected CEHv12 LABs to be performed during the 5-day training
 * Windows - Admin/Pa$$w0rd
 * Parrot Security - attacker/toor
 
-* ## Module 01 - Introduction to Ethical Hacking
+## Module 01 - Introduction to Ethical Hacking
 * No labs
 
 ## Module 02 - Footprinting and Reconnaissance
